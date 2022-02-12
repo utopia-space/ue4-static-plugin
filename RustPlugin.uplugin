@@ -1,7 +1,7 @@
 {
 	"FileVersion" : 3,
 
-	"FriendlyName" : "Test Example Plugin",
+	"FriendlyName" : "Rust Example Plugin",
 	"Version" : 1,
 	"VersionName" : "1.0",
 	"CreatedBy" : "Epic Games, Inc.",
@@ -14,7 +14,7 @@
 	"Modules" :
 	[
 		{
-			"Name" : "TestPlugin",
+			"Name" : "RustPlugin",
 			"Type" : "Developer"
 		}
 	]
